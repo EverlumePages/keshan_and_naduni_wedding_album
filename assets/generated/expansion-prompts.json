@@ -1,0 +1,54 @@
+{
+  "generator": "Built-in image_gen tool",
+  "reference": "assets/generated/originals/formal.png",
+  "assets": [
+    {
+      "name": "bridal-jewellery",
+      "prompt": "Use case: identity-preserve. Use the reference photograph as the exact identity and clothing reference for this fictional adult Sri Lankan wedding couple. Preserve their faces, warm brown skin, bride's ivory Kandyan osariya with gold embroidery, layered gold bridal jewellery and jasmine hair bun, and groom's ivory embroidered national tunic and trousers. Natural photographic anatomy, authentic skin and textile textures, fine-art wedding photography, warm daylight, subdued greens and champagne ivory palette. No text, logos, watermarks, or specific religious ritual. Portrait 2:3 close photograph of the bride alone beside a cream dressing-room window, gently adjusting one traditional gold earring. Mirror edge and soft reflected light, hands anatomically natural, jewellery in sharp detail, peaceful preparation."
+    },
+    {
+      "name": "groom-preparations",
+      "prompt": "Use case: identity-preserve. Use the reference photograph as the exact identity and clothing reference for this fictional adult Sri Lankan wedding couple. Preserve their faces, warm brown skin, bride's ivory Kandyan osariya with gold embroidery, layered gold bridal jewellery and jasmine hair bun, and groom's ivory embroidered national tunic and trousers. Natural photographic anatomy, authentic skin and textile textures, fine-art wedding photography, warm daylight, subdued greens and champagne ivory palette. No text, logos, watermarks, or specific religious ritual. Portrait 2:3 candid of the groom alone in a cream colonial dressing room adjusting his embroidered ivory cuff, looking down with a quiet smile. Window side-light, waist-up framing, natural fingers."
+    },
+    {
+      "name": "bridal-portrait",
+      "prompt": "Use case: identity-preserve. Use the reference photograph as the exact identity and clothing reference for this fictional adult Sri Lankan wedding couple. Preserve their faces, warm brown skin, bride's ivory Kandyan osariya with gold embroidery, layered gold bridal jewellery and jasmine hair bun, and groom's ivory embroidered national tunic and trousers. Natural photographic anatomy, authentic skin and textile textures, fine-art wedding photography, warm daylight, subdued greens and champagne ivory palette. No text, logos, watermarks, or specific religious ritual. Portrait 2:3 graceful full bridal portrait alone beneath a cream colonial arch, ivory rose and jasmine bouquet held at her waist, gaze softly toward camera, detailed Kandyan osariya, softly blurred tropical garden."
+    },
+    {
+      "name": "ring-exchange",
+      "prompt": "Use case: identity-preserve. Use the reference photograph as the exact identity and clothing reference for this fictional adult Sri Lankan wedding couple. Preserve their faces, warm brown skin, bride's ivory Kandyan osariya with gold embroidery, layered gold bridal jewellery and jasmine hair bun, and groom's ivory embroidered national tunic and trousers. Natural photographic anatomy, authentic skin and textile textures, fine-art wedding photography, warm daylight, subdued greens and champagne ivory palette. No text, logos, watermarks, or specific religious ritual. Landscape 3:2 wedding ceremony photograph of both couple smiling softly while the groom gently slides a simple gold band onto the bride's left ring finger. Both faces visible, anatomically correct hands, cream floral garden setting, no religious props or officiant."
+    },
+    {
+      "name": "promises",
+      "prompt": "Use case: identity-preserve. Use the reference photograph as the exact identity and clothing reference for this fictional adult Sri Lankan wedding couple. Preserve their faces, warm brown skin, bride's ivory Kandyan osariya with gold embroidery, layered gold bridal jewellery and jasmine hair bun, and groom's ivory embroidered national tunic and trousers. Natural photographic anatomy, authentic skin and textile textures, fine-art wedding photography, warm daylight, subdued greens and champagne ivory palette. No text, logos, watermarks, or specific religious ritual. Landscape 3:2 intimate wedding moment of the couple facing each other holding hands and exchanging heartfelt promises beneath a natural white floral garden arch. Three-quarter framing, faces in profile clearly matching reference, quietly emotional."
+    },
+    {
+      "name": "register",
+      "prompt": "Use case: identity-preserve. Use the reference photograph as the exact identity and clothing reference for this fictional adult Sri Lankan wedding couple. Preserve their faces, warm brown skin, bride's ivory Kandyan osariya with gold embroidery, layered gold bridal jewellery and jasmine hair bun, and groom's ivory embroidered national tunic and trousers. Natural photographic anatomy, authentic skin and textile textures, fine-art wedding photography, warm daylight, subdued greens and champagne ivory palette. No text, logos, watermarks, or specific religious ritual. Landscape 3:2 candid marriage-register signing. Bride seated at a small antique table signing an open cream register with a pen in her right hand, groom standing beside her looking fondly down, visible faces. Writing must be softly out of focus and unreadable. Small white bouquet on table, natural hands and arms."
+    },
+    {
+      "name": "laughter",
+      "prompt": "Use case: identity-preserve. Use the reference photograph as the exact identity and clothing reference for this fictional adult Sri Lankan wedding couple. Preserve their faces, warm brown skin, bride's ivory Kandyan osariya with gold embroidery, layered gold bridal jewellery and jasmine hair bun, and groom's ivory embroidered national tunic and trousers. Natural photographic anatomy, authentic skin and textile textures, fine-art wedding photography, warm daylight, subdued greens and champagne ivory palette. No text, logos, watermarks, or specific religious ritual. Portrait 2:3 candid waist-up portrait of the couple laughing together with spontaneous natural smiles under tropical garden trees, looking toward one another, bride holds her bouquet loosely. Fine-art reportage."
+    },
+    {
+      "name": "embrace",
+      "prompt": "Use case: identity-preserve. Use the reference photograph as the exact identity and clothing reference for this fictional adult Sri Lankan wedding couple. Preserve their faces, warm brown skin, bride's ivory Kandyan osariya with gold embroidery, layered gold bridal jewellery and jasmine hair bun, and groom's ivory embroidered national tunic and trousers. Natural photographic anatomy, authentic skin and textile textures, fine-art wedding photography, warm daylight, subdued greens and champagne ivory palette. No text, logos, watermarks, or specific religious ritual. Portrait 2:3 romantic courtyard embrace beside a tall ivory stone column. Groom gently wraps one arm around bride's waist, bride rests one hand on his chest, they look toward each other. Full or three-quarter figures, jasmine and silk textures, natural limbs."
+    },
+    {
+      "name": "garden-walk",
+      "prompt": "Use case: identity-preserve. Use the reference photograph as the exact identity and clothing reference for this fictional adult Sri Lankan wedding couple. Preserve their faces, warm brown skin, bride's ivory Kandyan osariya with gold embroidery, layered gold bridal jewellery and jasmine hair bun, and groom's ivory embroidered national tunic and trousers. Natural photographic anatomy, authentic skin and textile textures, fine-art wedding photography, warm daylight, subdued greens and champagne ivory palette. No text, logos, watermarks, or specific religious ritual. Landscape 3:2 wide photograph of the couple walking hand in hand toward camera on a stone path beside a lily pond, tropical greenery framing both sides, distant cream pavilion, late-afternoon warm light. Distinct composition from formal courtyard photo."
+    },
+    {
+      "name": "cake",
+      "prompt": "Use case: identity-preserve. Use the reference photograph as the exact identity and clothing reference for this fictional adult Sri Lankan wedding couple. Preserve their faces, warm brown skin, bride's ivory Kandyan osariya with gold embroidery, layered gold bridal jewellery and jasmine hair bun, and groom's ivory embroidered national tunic and trousers. Natural photographic anatomy, authentic skin and textile textures, fine-art wedding photography, warm daylight, subdued greens and champagne ivory palette. No text, logos, watermarks, or specific religious ritual. Landscape 3:2 reception moment of the couple cutting a simple two-tier ivory wedding cake decorated with jasmine, together holding one cake knife naturally. Smiling faces visible, elegant cream garden reception pavilion, flowers and soft bokeh, same wedding attire."
+    },
+    {
+      "name": "reception",
+      "prompt": "Use case: identity-preserve. Use the reference photograph as the exact identity and clothing reference for this fictional adult Sri Lankan wedding couple. Preserve their faces, warm brown skin, bride's ivory Kandyan osariya with gold embroidery, layered gold bridal jewellery and jasmine hair bun, and groom's ivory embroidered national tunic and trousers. Natural photographic anatomy, authentic skin and textile textures, fine-art wedding photography, warm daylight, subdued greens and champagne ivory palette. No text, logos, watermarks, or specific religious ritual. Portrait 2:3 editorial reception portrait of the couple seated closely at a candlelit table with ivory floral arrangements and warm fairy lights in a Sri Lankan courtyard at blue hour. Same ivory attire and gold jewellery. Faces warm and clear, intimate atmosphere."
+    },
+    {
+      "name": "farewell",
+      "prompt": "Use case: identity-preserve. Use the reference photograph as the exact identity and clothing reference for this fictional adult Sri Lankan wedding couple. Preserve their faces, warm brown skin, bride's ivory Kandyan osariya with gold embroidery, layered gold bridal jewellery and jasmine hair bun, and groom's ivory embroidered national tunic and trousers. Natural photographic anatomy, authentic skin and textile textures, fine-art wedding photography, warm daylight, subdued greens and champagne ivory palette. No text, logos, watermarks, or specific religious ritual. Landscape 3:2 full-length candid photograph of the same couple walking away down a garden path at sunset, looking back toward camera with gentle smiles, bride's bouquet at her side, ivory garments glowing softly. Few blurred white petals in air, no guests in foreground, romantic final moment."
+    }
+  ]
+}

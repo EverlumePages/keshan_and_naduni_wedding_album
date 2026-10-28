@@ -1,0 +1,315 @@
+{
+  "generator": "Built-in image_gen tool",
+  "created": "2026-10-24",
+  "subject": "Fictional adult Sri Lankan couple: Kavindu and Nethmi",
+  "notes": "Generated sample photography, not a real wedding. Original user-provided assets remain unchanged in images/. All generated originals are preserved. Web JPEGs are resized at quality 88; PNG cutouts preserve alpha.",
+  "assets": [
+    {
+      "name": "close",
+      "original": "assets/generated/originals/close.png",
+      "web": [
+        "assets/images/close-480.jpg",
+        "assets/images/close-960.jpg",
+        "assets/images/close-1600.jpg"
+      ],
+      "reference": "assets/generated/originals/formal.png",
+      "prompt": "Use case: identity-preserve. Reference image establishes a fictional adult Sri Lankan wedding couple. Preserve EXACTLY the same two faces, skin tones, hairstyles, bride's ivory Kandyan osariya, jasmine bun, traditional gold jewellery and groom's ivory embroidered national tunic and trousers. Create a new real fine-art wedding photograph, natural anatomy and skin texture, warm soft daylight, muted ivory and garden greens, no text, no watermark. Vertical portrait, waist-up intimate candid photograph. Couple standing close, gently touching foreheads and smiling with eyes lowered, groom on left bride on right, their hands gently together at waist. Soft sunlit tropical garden bokeh background. Beautiful golden side light, actual camera depth of field, faces fully visible and natural."
+    },
+    {
+      "name": "walking",
+      "original": "assets/generated/originals/walking.png",
+      "web": [
+        "assets/images/walking-480.jpg",
+        "assets/images/walking-960.jpg",
+        "assets/images/walking-1600.jpg"
+      ],
+      "reference": "assets/generated/originals/formal.png",
+      "prompt": "Use case: identity-preserve. Reference image establishes a fictional adult Sri Lankan wedding couple. Preserve EXACTLY the same two faces, skin tones, hairstyles, bride's ivory Kandyan osariya, jasmine bun, traditional gold jewellery and groom's ivory embroidered national tunic and trousers. Create a new real fine-art wedding photograph, natural anatomy and skin texture, warm soft daylight, muted ivory and garden greens, no text, no watermark. Vertical full-length photograph. Couple walking hand in hand on an old stone path in the same Sri Lankan garden courtyard with palms, white blooms and cream colonial architecture. They smile toward each other, bride holds her ivory rose and jasmine bouquet in her free hand. Capture a graceful natural walking moment, clothing moving subtly, generous garden setting around them."
+    },
+    {
+      "name": "seated",
+      "original": "assets/generated/originals/seated.png",
+      "web": [
+        "assets/images/seated-480.jpg",
+        "assets/images/seated-960.jpg",
+        "assets/images/seated-1600.jpg"
+      ],
+      "reference": "assets/generated/originals/formal.png",
+      "prompt": "Use case: identity-preserve. Reference image establishes a fictional adult Sri Lankan wedding couple. Preserve EXACTLY the same two faces, skin tones, hairstyles, bride's ivory Kandyan osariya, jasmine bun, traditional gold jewellery and groom's ivory embroidered national tunic and trousers. Create a new real fine-art wedding photograph, natural anatomy and skin texture, warm soft daylight, muted ivory and garden greens, no text, no watermark. Vertical portrait photograph. Couple seated side by side on a stone garden bench beneath leafy trees, bodies angled slightly toward each other, sharing a relaxed joyful smile, bride's ivory bouquet resting in her lap. Full seated figures, hands natural, soft shade and dappled sunlight, romantic candid authentic wedding reportage."
+    },
+    {
+      "name": "garden",
+      "original": "assets/generated/originals/garden.png",
+      "web": [
+        "assets/images/garden-480.jpg",
+        "assets/images/garden-960.jpg",
+        "assets/images/garden-1600.jpg"
+      ],
+      "reference": "assets/generated/originals/formal.png",
+      "prompt": "Use case: identity-preserve. Reference image establishes a fictional adult Sri Lankan wedding couple. Preserve EXACTLY the same two faces, skin tones, hairstyles, bride's ivory Kandyan osariya, jasmine bun, traditional gold jewellery and groom's ivory embroidered national tunic and trousers. Create a new real fine-art wedding photograph, natural anatomy and skin texture, warm soft daylight, muted ivory and garden greens, no text, no watermark. Wide landscape 3:2 panoramic editorial photograph. Couple standing close together at the exact center of a lush Sri Lankan tropical garden, framed by tall palms and an ancient spreading tree, cream colonial pavilion in the distance, white florals beside a stone path, late afternoon light through foliage. Their full figures occupy about half the image height, centered within the middle third so they remain visible when this photograph is divided into three vertical panels. Breathtaking quiet atmosphere and realistic landscaping."
+    },
+    {
+      "name": "hands",
+      "original": "assets/generated/originals/hands.png",
+      "web": [
+        "assets/images/hands-480.jpg",
+        "assets/images/hands-960.jpg",
+        "assets/images/hands-1600.jpg"
+      ],
+      "reference": "assets/generated/originals/formal.png",
+      "prompt": "Use case: identity-preserve. Reference image establishes a fictional adult Sri Lankan wedding couple. Preserve EXACTLY the same two faces, skin tones, hairstyles, bride's ivory Kandyan osariya, jasmine bun, traditional gold jewellery and groom's ivory embroidered national tunic and trousers. Create a new real fine-art wedding photograph, natural anatomy and skin texture, warm soft daylight, muted ivory and garden greens, no text, no watermark. Landscape 3:2 macro editorial detail photograph, no faces visible. Close-up of the bride's left hand resting naturally in the groom's open hand, only two hands visible, anatomically correct five fingers per hand, elegant diamond engagement ring and gold wedding band, her delicate traditional gold bracelet. Textured ivory osariya and embroidered ivory groom cuff in soft background with a glimpse of jasmine bouquet. Warm natural daylight, believable skin and fine jewellery, restrained composition."
+    },
+    {
+      "name": "cover",
+      "original": "assets/generated/originals/cover.png",
+      "web": [
+        "assets/images/cover-480.jpg",
+        "assets/images/cover-960.jpg",
+        "assets/images/cover-1600.jpg"
+      ],
+      "reference": "assets/generated/originals/formal.png",
+      "prompt": "Use case: identity-preserve. Reference image establishes a fictional adult Sri Lankan wedding couple. Preserve EXACTLY the same two faces, skin tones, hairstyles, bride's ivory Kandyan osariya, jasmine bun, traditional gold jewellery and groom's ivory embroidered national tunic and trousers. Create a new real fine-art wedding photograph, natural anatomy and skin texture, warm soft daylight, muted ivory and garden greens, no text, no watermark. Vertical 2:3 photographic artwork for a book cover, no faces, absolutely no writing. The bride's ringed hand resting over groom's hand in the lower center-right of composition, embroidered ivory sleeve, ivory roses and jasmine along lower and right edge, natural cream silk folds. The top 45 percent is mostly softly lit empty ivory silk, suitable for separate overlaid typography. Gentle photographic fade from fine hands-and-flowers detail into ivory at the top, warm cream champagne palette, real skin and fabric, luxury wedding album cover."
+    },
+    {
+      "name": "formal",
+      "original": "assets/generated/originals/formal.png",
+      "web": [
+        "assets/images/formal-480.jpg",
+        "assets/images/formal-960.jpg",
+        "assets/images/formal-1600.jpg"
+      ],
+      "reference": null,
+      "prompt": "Use case: photorealistic-natural. Generate a high-end wedding editorial photograph, vertical portrait, no text or watermark. A fictional adult Sri Lankan couple aged about 28, elegant Kandyan wedding. Bride: warm medium brown skin, oval face, dark almond eyes, black hair in a low bridal bun with jasmine, ivory silk Kandyan osariya with richly textured embroidery, traditional layered gold bridal necklaces and forehead jewellery. Groom: warm medium brown skin, short neatly styled black hair, clean shaven, ivory national tunic and matching trousers with subtle gold embroidery. Both have natural believable skin and proportions. Full-length formal portrait together in a lush Sri Lankan colonial garden courtyard, cream archways, palms and white flowers; she holds ivory roses, he gently holds her hand. Soft warm daylight, luxury fine-art wedding photography, muted natural greens and ivory palette, real photographic depth of field. Keep both faces clear, calm loving expressions. This image establishes their identities for subsequent photographs."
+    },
+    {
+      "name": "rings",
+      "original": "assets/generated/originals/rings.png",
+      "web": [
+        "assets/images/rings-480.jpg",
+        "assets/images/rings-960.jpg",
+        "assets/images/rings-1600.jpg"
+      ],
+      "reference": null,
+      "prompt": "Use case: photorealistic-natural. Landscape 3:2 fine art wedding macro photograph of two beautifully realistic simple gold wedding bands and one subtle diamond engagement ring resting on ivory silk and a small cream linen vow booklet without any writing. A tiny jasmine sprig beside them. Warm window light and gentle shadows, natural imperfect fabric folds, real metal reflections, ivory champagne brown editorial palette. No text, no watermark, no people. Sophisticated Sri Lankan wedding detail, photograph not illustration."
+    },
+    {
+      "name": "bouquet",
+      "original": "assets/generated/originals/bouquet.png",
+      "web": [
+        "assets/images/bouquet-480.jpg",
+        "assets/images/bouquet-960.jpg",
+        "assets/images/bouquet-1600.jpg"
+      ],
+      "reference": null,
+      "prompt": "Use case: photorealistic-natural. Portrait 2:3 luxury wedding editorial still-life photograph. Ivory roses and delicate jasmine bridal bouquet with a few muted green leaves, long ivory silk ribbons resting on an antique wood chair beside a sunlit cream window. Delicate sheer wedding fabric in background. Warm natural side lighting, realistic petals, rich photographic depth of field, restrained ivory and sage palette, film-like grain. No text no watermark no people."
+    },
+    {
+      "name": "florals",
+      "original": "assets/generated/originals/florals.png",
+      "web": [
+        "assets/images/florals.png"
+      ],
+      "reference": null,
+      "prompt": "Use case: photorealistic-natural. Create a photorealistic cutout of a delicate small asymmetric floral arrangement, ivory roses, tiny white jasmine blossoms and fine muted sage-green leaves, branching gently diagonally upward. Natural flower photograph with subtle organic irregularity, soft warm light. Genuine transparent background, isolated flowers only, no vase, no text, no shadow backdrop. High-end wedding album corner embellishment, generous clear space around silhouette."
+    },
+    {
+      "name": "petal-1",
+      "original": "assets/generated/originals/petal-1.png",
+      "web": [
+        "assets/images/petal-1.png"
+      ],
+      "reference": "images/red petals.jpg",
+      "prompt": "Use case: background-extraction. Edit the supplied red rose petal reference sheet. Extract ONLY the top-left red rose petal into one single isolated photorealistic petal, centered, keeping its lovely curved form and velvety deep crimson surface and natural edge highlights. Remove EVERY checkerboard pixel and all other petals. Background must be truly transparent with clean alpha including around the edges, no grey or white or black background, no checkerboard, no backdrop glow, no text. One petal only, ample transparent margin."
+    },
+    {
+      "name": "petal-2",
+      "original": "assets/generated/originals/petal-2.png",
+      "web": [
+        "assets/images/petal-2.png"
+      ],
+      "reference": "images/red petals.jpg",
+      "prompt": "Use case: background-extraction. From the reference extract ONLY the red rose petal at the top RIGHT. Show exactly ONE small curved crimson rose petal, centered with transparent margin, photorealistic. Remove all checkerboard and other petals. CRITICAL: clean sharp naturally curved silhouette, real transparent alpha, NO colored glow, NO aura, NO shadow, NO haze around it, NO background texture. Everything outside the petal must be fully transparent."
+    },
+    {
+      "name": "petal-3",
+      "original": "assets/generated/originals/petal-3.png",
+      "web": [
+        "assets/images/petal-3.png"
+      ],
+      "reference": "images/red petals.jpg",
+      "prompt": "Use case: background-extraction. From the reference extract ONLY the red rose petal at the bottom RIGHT. Show exactly ONE small curled deep red rose petal, centered with transparent margin, photographic velvet texture. Remove all checkerboard and other petals. CRITICAL: clean sharp naturally curved silhouette, real transparent alpha, NO colored glow, NO aura, NO shadow, NO haze around it, NO background texture. Everything outside the petal must be fully transparent."
+    },
+    {
+      "name": "bridal-jewellery",
+      "original": "assets/generated/originals/bridal-jewellery.png",
+      "web": [
+        "assets/images/bridal-jewellery-480.jpg",
+        "assets/images/bridal-jewellery-960.jpg",
+        "assets/images/bridal-jewellery-1600.jpg"
+      ],
+      "reference": "assets/generated/originals/formal.png",
+      "prompt": "Use case: identity-preserve. Use the reference photograph as the exact identity and clothing reference for this fictional adult Sri Lankan wedding couple. Preserve their faces, warm brown skin, bride's ivory Kandyan osariya with gold embroidery, layered gold bridal jewellery and jasmine hair bun, and groom's ivory embroidered national tunic and trousers. Natural photographic anatomy, authentic skin and textile textures, fine-art wedding photography, warm daylight, subdued greens and champagne ivory palette. No text, logos, watermarks, or specific religious ritual. Portrait 2:3 close photograph of the bride alone beside a cream dressing-room window, gently adjusting one traditional gold earring. Mirror edge and soft reflected light, hands anatomically natural, jewellery in sharp detail, peaceful preparation."
+    },
+    {
+      "name": "groom-preparations",
+      "original": "assets/generated/originals/groom-preparations.png",
+      "web": [
+        "assets/images/groom-preparations-480.jpg",
+        "assets/images/groom-preparations-960.jpg",
+        "assets/images/groom-preparations-1600.jpg"
+      ],
+      "reference": "assets/generated/originals/formal.png",
+      "prompt": "Use case: identity-preserve. Use the reference photograph as the exact identity and clothing reference for this fictional adult Sri Lankan wedding couple. Preserve their faces, warm brown skin, bride's ivory Kandyan osariya with gold embroidery, layered gold bridal jewellery and jasmine hair bun, and groom's ivory embroidered national tunic and trousers. Natural photographic anatomy, authentic skin and textile textures, fine-art wedding photography, warm daylight, subdued greens and champagne ivory palette. No text, logos, watermarks, or specific religious ritual. Portrait 2:3 candid of the groom alone in a cream colonial dressing room adjusting his embroidered ivory cuff, looking down with a quiet smile. Window side-light, waist-up framing, natural fingers."
+    },
+    {
+      "name": "bridal-portrait",
+      "original": "assets/generated/originals/bridal-portrait.png",
+      "web": [
+        "assets/images/bridal-portrait-480.jpg",
+        "assets/images/bridal-portrait-960.jpg",
+        "assets/images/bridal-portrait-1600.jpg"
+      ],
+      "reference": "assets/generated/originals/formal.png",
+      "prompt": "Use case: identity-preserve. Use the reference photograph as the exact identity and clothing reference for this fictional adult Sri Lankan wedding couple. Preserve their faces, warm brown skin, bride's ivory Kandyan osariya with gold embroidery, layered gold bridal jewellery and jasmine hair bun, and groom's ivory embroidered national tunic and trousers. Natural photographic anatomy, authentic skin and textile textures, fine-art wedding photography, warm daylight, subdued greens and champagne ivory palette. No text, logos, watermarks, or specific religious ritual. Portrait 2:3 graceful full bridal portrait alone beneath a cream colonial arch, ivory rose and jasmine bouquet held at her waist, gaze softly toward camera, detailed Kandyan osariya, softly blurred tropical garden."
+    },
+    {
+      "name": "ring-exchange",
+      "original": "assets/generated/originals/ring-exchange.png",
+      "web": [
+        "assets/images/ring-exchange-480.jpg",
+        "assets/images/ring-exchange-960.jpg",
+        "assets/images/ring-exchange-1600.jpg"
+      ],
+      "reference": "assets/generated/originals/formal.png",
+      "prompt": "Use case: identity-preserve. Use the reference photograph as the exact identity and clothing reference for this fictional adult Sri Lankan wedding couple. Preserve their faces, warm brown skin, bride's ivory Kandyan osariya with gold embroidery, layered gold bridal jewellery and jasmine hair bun, and groom's ivory embroidered national tunic and trousers. Natural photographic anatomy, authentic skin and textile textures, fine-art wedding photography, warm daylight, subdued greens and champagne ivory palette. No text, logos, watermarks, or specific religious ritual. Landscape 3:2 wedding ceremony photograph of both couple smiling softly while the groom gently slides a simple gold band onto the bride's left ring finger. Both faces visible, anatomically correct hands, cream floral garden setting, no religious props or officiant."
+    },
+    {
+      "name": "promises",
+      "original": "assets/generated/originals/promises.png",
+      "web": [
+        "assets/images/promises-480.jpg",
+        "assets/images/promises-960.jpg",
+        "assets/images/promises-1600.jpg"
+      ],
+      "reference": "assets/generated/originals/formal.png",
+      "prompt": "Use case: identity-preserve. Use the reference photograph as the exact identity and clothing reference for this fictional adult Sri Lankan wedding couple. Preserve their faces, warm brown skin, bride's ivory Kandyan osariya with gold embroidery, layered gold bridal jewellery and jasmine hair bun, and groom's ivory embroidered national tunic and trousers. Natural photographic anatomy, authentic skin and textile textures, fine-art wedding photography, warm daylight, subdued greens and champagne ivory palette. No text, logos, watermarks, or specific religious ritual. Landscape 3:2 intimate wedding moment of the couple facing each other holding hands and exchanging heartfelt promises beneath a natural white floral garden arch. Three-quarter framing, faces in profile clearly matching reference, quietly emotional."
+    },
+    {
+      "name": "register",
+      "original": "assets/generated/originals/register.png",
+      "web": [
+        "assets/images/register-480.jpg",
+        "assets/images/register-960.jpg",
+        "assets/images/register-1600.jpg"
+      ],
+      "reference": "assets/generated/originals/formal.png",
+      "prompt": "Use case: identity-preserve. Use the reference photograph as the exact identity and clothing reference for this fictional adult Sri Lankan wedding couple. Preserve their faces, warm brown skin, bride's ivory Kandyan osariya with gold embroidery, layered gold bridal jewellery and jasmine hair bun, and groom's ivory embroidered national tunic and trousers. Natural photographic anatomy, authentic skin and textile textures, fine-art wedding photography, warm daylight, subdued greens and champagne ivory palette. No text, logos, watermarks, or specific religious ritual. Landscape 3:2 candid marriage-register signing. Bride seated at a small antique table signing an open cream register with a pen in her right hand, groom standing beside her looking fondly down, visible faces. Writing must be softly out of focus and unreadable. Small white bouquet on table, natural hands and arms."
+    },
+    {
+      "name": "laughter",
+      "original": "assets/generated/originals/laughter.png",
+      "web": [
+        "assets/images/laughter-480.jpg",
+        "assets/images/laughter-960.jpg",
+        "assets/images/laughter-1600.jpg"
+      ],
+      "reference": "assets/generated/originals/formal.png",
+      "prompt": "Use case: identity-preserve. Use the reference photograph as the exact identity and clothing reference for this fictional adult Sri Lankan wedding couple. Preserve their faces, warm brown skin, bride's ivory Kandyan osariya with gold embroidery, layered gold bridal jewellery and jasmine hair bun, and groom's ivory embroidered national tunic and trousers. Natural photographic anatomy, authentic skin and textile textures, fine-art wedding photography, warm daylight, subdued greens and champagne ivory palette. No text, logos, watermarks, or specific religious ritual. Portrait 2:3 candid waist-up portrait of the couple laughing together with spontaneous natural smiles under tropical garden trees, looking toward one another, bride holds her bouquet loosely. Fine-art reportage."
+    },
+    {
+      "name": "embrace",
+      "original": "assets/generated/originals/embrace.png",
+      "web": [
+        "assets/images/embrace-480.jpg",
+        "assets/images/embrace-960.jpg",
+        "assets/images/embrace-1600.jpg"
+      ],
+      "reference": "assets/generated/originals/formal.png",
+      "prompt": "Use case: identity-preserve. Use the reference photograph as the exact identity and clothing reference for this fictional adult Sri Lankan wedding couple. Preserve their faces, warm brown skin, bride's ivory Kandyan osariya with gold embroidery, layered gold bridal jewellery and jasmine hair bun, and groom's ivory embroidered national tunic and trousers. Natural photographic anatomy, authentic skin and textile textures, fine-art wedding photography, warm daylight, subdued greens and champagne ivory palette. No text, logos, watermarks, or specific religious ritual. Portrait 2:3 romantic courtyard embrace beside a tall ivory stone column. Groom gently wraps one arm around bride's waist, bride rests one hand on his chest, they look toward each other. Full or three-quarter figures, jasmine and silk textures, natural limbs."
+    },
+    {
+      "name": "garden-walk",
+      "original": "assets/generated/originals/garden-walk.png",
+      "web": [
+        "assets/images/garden-walk-480.jpg",
+        "assets/images/garden-walk-960.jpg",
+        "assets/images/garden-walk-1600.jpg"
+      ],
+      "reference": "assets/generated/originals/formal.png",
+      "prompt": "Use case: identity-preserve. Use the reference photograph as the exact identity and clothing reference for this fictional adult Sri Lankan wedding couple. Preserve their faces, warm brown skin, bride's ivory Kandyan osariya with gold embroidery, layered gold bridal jewellery and jasmine hair bun, and groom's ivory embroidered national tunic and trousers. Natural photographic anatomy, authentic skin and textile textures, fine-art wedding photography, warm daylight, subdued greens and champagne ivory palette. No text, logos, watermarks, or specific religious ritual. Landscape 3:2 wide photograph of the couple walking hand in hand toward camera on a stone path beside a lily pond, tropical greenery framing both sides, distant cream pavilion, late-afternoon warm light. Distinct composition from formal courtyard photo."
+    },
+    {
+      "name": "cake",
+      "original": "assets/generated/originals/cake.png",
+      "web": [
+        "assets/images/cake-480.jpg",
+        "assets/images/cake-960.jpg",
+        "assets/images/cake-1600.jpg"
+      ],
+      "reference": "assets/generated/originals/formal.png",
+      "prompt": "Use case: identity-preserve. Use the reference photograph as the exact identity and clothing reference for this fictional adult Sri Lankan wedding couple. Preserve their faces, warm brown skin, bride's ivory Kandyan osariya with gold embroidery, layered gold bridal jewellery and jasmine hair bun, and groom's ivory embroidered national tunic and trousers. Natural photographic anatomy, authentic skin and textile textures, fine-art wedding photography, warm daylight, subdued greens and champagne ivory palette. No text, logos, watermarks, or specific religious ritual. Landscape 3:2 reception moment of the couple cutting a simple two-tier ivory wedding cake decorated with jasmine, together holding one cake knife naturally. Smiling faces visible, elegant cream garden reception pavilion, flowers and soft bokeh, same wedding attire."
+    },
+    {
+      "name": "reception",
+      "original": "assets/generated/originals/reception.png",
+      "web": [
+        "assets/images/reception-480.jpg",
+        "assets/images/reception-960.jpg",
+        "assets/images/reception-1600.jpg"
+      ],
+      "reference": "assets/generated/originals/formal.png",
+      "prompt": "Use case: identity-preserve. Use the reference photograph as the exact identity and clothing reference for this fictional adult Sri Lankan wedding couple. Preserve their faces, warm brown skin, bride's ivory Kandyan osariya with gold embroidery, layered gold bridal jewellery and jasmine hair bun, and groom's ivory embroidered national tunic and trousers. Natural photographic anatomy, authentic skin and textile textures, fine-art wedding photography, warm daylight, subdued greens and champagne ivory palette. No text, logos, watermarks, or specific religious ritual. Portrait 2:3 editorial reception portrait of the couple seated closely at a candlelit table with ivory floral arrangements and warm fairy lights in a Sri Lankan courtyard at blue hour. Same ivory attire and gold jewellery. Faces warm and clear, intimate atmosphere."
+    },
+    {
+      "name": "farewell",
+      "original": "assets/generated/originals/farewell.png",
+      "web": [
+        "assets/images/farewell-480.jpg",
+        "assets/images/farewell-960.jpg",
+        "assets/images/farewell-1600.jpg"
+      ],
+      "reference": "assets/generated/originals/formal.png",
+      "prompt": "Use case: identity-preserve. Use the reference photograph as the exact identity and clothing reference for this fictional adult Sri Lankan wedding couple. Preserve their faces, warm brown skin, bride's ivory Kandyan osariya with gold embroidery, layered gold bridal jewellery and jasmine hair bun, and groom's ivory embroidered national tunic and trousers. Natural photographic anatomy, authentic skin and textile textures, fine-art wedding photography, warm daylight, subdued greens and champagne ivory palette. No text, logos, watermarks, or specific religious ritual. Landscape 3:2 full-length candid photograph of the same couple walking away down a garden path at sunset, looking back toward camera with gentle smiles, bride's bouquet at her side, ivory garments glowing softly. Few blurred white petals in air, no guests in foreground, romantic final moment."
+    },
+    {
+      "name": "petal-source-red",
+      "original": "assets/generated/originals/petal-source-red.png",
+      "source": "images/red petals.jpg",
+      "web": "assets/images/petal-source-red.png",
+      "method": "Built-in image editing tool; background extraction",
+      "prompt": "Use case: background-extraction. Edit target: supplied red petals.jpg. Extract ONLY the upper-left red rose petal from the supplied sheet as one isolated transparent PNG. Preserve its exact broad cupped silhouette, rich deep crimson red color, curved lip, real photographic veins/texture and natural lighting. Remove the baked-in gray and white checkerboard entirely; real alpha transparency, no checkerboard pixels, no shadow outside the petal. Do NOT redesign or stylize the petal, do not make it pink, do not soften its texture, do not add other petals. Single original petal centered, tightly framed with about 5 percent transparent margin."
+    },
+    {
+      "name": "ring-cutout",
+      "original": "assets/generated/originals/ring-cutout.png",
+      "source": "images/ring.jpg",
+      "web": "assets/images/ring-cutout.png",
+      "method": "Built-in image editing tool; background extraction",
+      "prompt": "Use case: background-extraction. Edit the supplied ring.jpg. Remove only the fabric background and its cast shadows, including the fabric visible through the circular openings of both rings. Preserve both overlapping gold rings exactly: the solitaire diamond, prongs, small stones, engraved band, original angle, realistic highlights and gold color. Produce a clean tightly framed cutout of the two rings together, with about 5 percent transparent padding. Actual alpha transparency everywhere outside the metal/diamond and inside the open ring holes. No new objects, no added shadow, no redesign, no text or background."
+    },
+    {
+      "name": "yellow-flower-cutout",
+      "original": "assets/generated/originals/yellow-flower-cutout.png",
+      "web": "assets/images/yellow-flower-cutout.png",
+      "source": "images/yellow_flower.jpg",
+      "method": "Built-in image editing; background extraction",
+      "prompt": "Use case: background-extraction. Edit the supplied yellow_flower.jpg. Remove the baked-in gray/white checkerboard completely and preserve the single yellow flower: its original six broad overlapping golden yellow petals, fine veins, central stamens, exact silhouette, natural light and color. No redesign, no leaves, no extra flowers, no text, no glow or outside shadows. Actual transparent alpha background. Tightly center the whole flower with 3 percent transparent padding."
+    },
+    {
+      "name": "petal-source-yellow",
+      "original": "assets/generated/originals/petal-source-yellow.png",
+      "web": "assets/images/petal-source-yellow.png",
+      "source": "images/yellow petals.jpg",
+      "method": "Built-in image editing; background extraction",
+      "prompt": "Use case: background-extraction. Edit supplied yellow petals.jpg. Isolate ONLY the broad curved yellow petal near the upper right edge, just below the long thin horizontal petal (roughly x=860,y=310 in source). Preserve its curled cup shape, yellow/gold rim, pale yellow center, delicate veins and photographic texture. Remove all other petals and the baked-in checkerboard. Single petal tightly centered with 4 percent transparent padding. Genuine alpha transparency, no checkerboard, no text, no added shadow or glow. Keep the original yellow hue; do not turn orange."
+    },
+    {
+      "name": "floral-corner",
+      "original": "assets/generated/originals/floral-corner.png",
+      "web": "assets/images/floral-corner.png",
+      "source": "assets/images/florals.png",
+      "method": "Built-in image editing: rearrange flowers into a curved corner",
+      "prompt": "Edit the supplied floral cutout into a delicate CURVED TOP-RIGHT CORNER floral ornament for an ivory wedding page. Keep the same photorealistic ivory roses, tiny white jasmine and muted olive greenery, but rearrange the stems along a graceful quarter-circle arc: start at upper LEFT at (10%,12%), curve through (70%,25%), end at lower RIGHT at (88%,90%). The arc must visibly bend around the upper-right corner, not be a straight diagonal bouquet. Three small ivory roses along the upper bend with fine tapering foliage at both ends, airy and narrow (flower band about 18 percent of canvas wide). Leave the entire bottom-left and center of the square EMPTY transparent. Keep all foliage within frame with 3 percent padding. True alpha transparency, no background, no text, no frame lines, no shadows or glow. Natural photographic petal details, elegant restrained flowers, not a dense wreath."
+    }
+  ]
+}

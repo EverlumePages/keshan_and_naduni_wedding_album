@@ -1,0 +1,7 @@
+{
+  "name": "everlume-wedding-album",
+  "version": "1.0.0",
+  "private": true,
+  "description": "A bilingual Sri Lankan wedding album",
+  "scripts": { "start": "node server.cjs", "check": "node --check app.js && node --check album.config.js && node --check server.cjs && node scripts/check-assets.cjs" }
+}
