@@ -1,0 +1,41 @@
+{
+  "kind": "Rendered photo films using AI-generated stills; not full-motion AI wedding footage",
+  "audio": "Silent",
+  "width": 1280,
+  "height": 720,
+  "fps": 24,
+  "durationSeconds": 21,
+  "treatment": "Slow zoom, blurred photographic backdrop, one-second cross-dissolves and fade in/out",
+  "films": [
+    {
+      "id": "our-beautiful-beginning",
+      "images": [
+        "formal",
+        "walking",
+        "close",
+        "garden"
+      ],
+      "source": "assets/videos/our-beautiful-beginning.mp4"
+    },
+    {
+      "id": "the-promises-we-made",
+      "images": [
+        "bridal-jewellery",
+        "ring-exchange",
+        "promises",
+        "hands"
+      ],
+      "source": "assets/videos/the-promises-we-made.mp4"
+    },
+    {
+      "id": "an-evening-to-remember",
+      "images": [
+        "cake",
+        "laughter",
+        "reception",
+        "farewell"
+      ],
+      "source": "assets/videos/an-evening-to-remember.mp4"
+    }
+  ]
+}
